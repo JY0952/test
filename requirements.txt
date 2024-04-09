@@ -1,6 +1,6 @@
 streamlit
 pysqlite3-binary
-langchain
+langchain-community
 chromadb
 unstructured
 sentence-transformers
